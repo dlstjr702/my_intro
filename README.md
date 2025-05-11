@@ -4,19 +4,16 @@ Hi, I'm In Seok Yang !
 
 🚀 My Skills & Tools
 Design
-    ![free-icon-adobe-photoshop-logo-1781 (1)](https://github.com/user-attachments/assets/a9f52363-6c19-485c-a0d2-80b102e5bfb3)
-    ![free-icon-illustrator-9814096](https://github.com/user-attachments/assets/a7b9379b-7859-44cc-8be1-13baaf8529d1)
-    ![free-icon-xd-5968559](https://github.com/user-attachments/assets/cef11ff7-a046-48fa-b887-ecf95ad3e2e1)
+![img_psd](https://github.com/user-attachments/assets/75332d5c-cc5a-4663-8882-73eeb3f1e35f) ![img_ai](https://github.com/user-attachments/assets/8c258c00-f45a-4a94-83ff-a67eec00124c)
+
+
 
 
 Frontend
-    ![free-icon-html-5-732212](https://github.com/user-attachments/assets/0ccd1c61-33de-4c71-8c04-f3c450ae6499)
-    ![free-icon-css-3-732190 (2)](https://github.com/user-attachments/assets/6330fa07-083f-45b5-9b6b-bb3388c3e9c8)
-    ![free-icon-js-5968292 (2)](https://github.com/user-attachments/assets/2f6fb29e-05b9-44f8-80a2-9d38c686867a)
+![img_html](https://github.com/user-attachments/assets/5415ce81-b752-4b35-89e6-1903d38ffa5e)![img_css](https://github.com/user-attachments/assets/64ba9868-bc48-4eed-bca1-574b70834c7c)![img_js](https://github.com/user-attachments/assets/fb765bc7-9d4a-4b64-9a3f-62794955390a)
 
- 
 Backend
-  ![free-icon-php-919830 (1)](https://github.com/user-attachments/assets/691375aa-1aed-48ab-8052-7f61866becdb)
+![img_png](https://github.com/user-attachments/assets/52fc8498-4298-4e15-8442-5cf4e95deb6b)
 
  
 
