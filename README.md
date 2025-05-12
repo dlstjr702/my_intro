@@ -4,7 +4,10 @@ Hi, I'm In Seok Yang ! <br>
 
 
 🚀Education
+- EZen computer Academy , UI/UX Web Publisher 2021
 
+🚀Company
+- WebPlanet / Developement Team, Web Publisher (Corder)
 
 🚀 My Skills & Tools
 <br>
