@@ -1,6 +1,11 @@
 Hi, I'm In Seok Yang ! <br>
 안녕하세요!
 <br>
+
+
+🚀Education
+
+
 🚀 My Skills & Tools
 <br>
 Design<br>
@@ -14,5 +19,8 @@ Backend<br>
 <br>
  
 
-🛠️ Collaboration Tools
+🚀 Collaboration Tools
+
+
+🚀 PROJECT & PORTFOLIO
      
