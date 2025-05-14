@@ -4,7 +4,8 @@ Developers who create beneficial social values
 A developer who thinks, researches, creates, and connects to practical realization by web
 
 🛠️ Stacks
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
        
 
 💪🏼 Tools
