@@ -12,19 +12,19 @@ Hi, I'm In Seok Yang ! <br>
 
 🚀 My Skills & Tools
 
-* Design<br>
+/* Design */
 - Photoshop
 - illustlator
 - Adobe Xd
 - Figma
 
-* Frontend
+/* Frontend */
 - HTML
 - CSS
 - JAVASCRIPT
 - REACT.JS
 
-* Backend
+/* Backend */
 - PHP
  
 
