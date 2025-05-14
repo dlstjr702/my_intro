@@ -7,7 +7,7 @@ Hi, I'm In Seok Yang ! <br>
 
 
 🚀Company
-- WebPlanet / Developement Team, Web Publisher (Corder)
+- WebPlanet / Developement Team, Web Publisher / 2022 ~ ing
  
 
 🚀 My Skills & Tools
@@ -28,30 +28,3 @@ Hi, I'm In Seok Yang ! <br>
 
 🚀 PROJECT & PORTFOLIO
 
-
-
-
-
-こんにちは、ヤン・インソクです！<br>
-<br>
-
-🚀学歴
-- EZenコンピューターアカデミー、UI/UX Webパブリッシャー 2021
-
-🚀会社
-- WebPlanet / 開発チーム、Webパブリッシャー（コーダー）
-
-🚀スキルとツール
-
-* デザイン<br>
-![img_psd](https://github.com/user-attachments/assets/75332d5c-cc5a-4663-8882-73eeb3f1e35f) ![img_ai](https://github.com/user-attachments/assets/8c258c00-f45a-4a94-83ff-a67eec00124c)
-
-
-* フロントエンド<br>
-![img_html](https://github.com/user-attachments/assets/5415ce81-b752-4b35-89e6-1903d38ffa5e)![img_css](https://github.com/user-attachments/assets/64ba9868-bc48-4eed-bca1-574b70834c7c)![img_js](https://github.com/user-attachments/assets/fb765bc7-9d4a-4b64-9a3f-62794955390a)
-
-
-* バックエンド<br>
-![img_png](https://github.com/user-attachments/assets/52fc8498-4298-4e15-8442-5cf4e95deb6b)
-
-     
