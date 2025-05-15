@@ -17,7 +17,7 @@ Anurag's GitHub stats
 
 🐱 About Me
 
-Gmail Badge Notion Badge Velog Badge
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 🏅 Algorithm Gold Level.
 
