@@ -19,16 +19,3 @@ Anurag's GitHub stats
 
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-🏅 Algorithm Gold Level.
-
-Solved.ac Profile
-Programmers - Lv3
-Samsung SW Pro Level
-
-🏆 Awards
-
-Competition	Prize	Date
-Microsoft News Recommendation	World 2nd Prize	Oct 21, 2020
-Kaggle Man/Female Predict Competition	1st	Jan 25, 2019
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.
-Please understand.
