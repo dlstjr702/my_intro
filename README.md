@@ -19,13 +19,17 @@ I'm expanding my influence as a developer!<br>
 <h3>🛠️Edu &Career</h3>
 
 <h4>Education</h4>
-* 2025.09 ~ ing    Korea National Open University (KNOU) Computer Sience
-* 2026.05 ~ 2026.10    Sist Academy java
+<ul>
+   <li>* 2025.09 ~ ing    Korea National Open University (KNOU) Computer Sience</li>
+   <li>* 2026.05 ~ 2026.10    Sist Academy java</li>
+</ul>
 
 <h4>Career</h4>
-* 2022.03 ~ 2026.02 - Web planet / Web Publisher, Design 
+<ul>
+   <li>* 2022.03 ~ 2026.02 - Web planet / Web Publisher, Design</li>
+</ul>
+ 
    
-
 <h3>🛠️ Stacks</h3>
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
