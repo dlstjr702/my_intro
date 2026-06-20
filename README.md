@@ -20,13 +20,13 @@ I'm expanding my influence as a developer!<br>
 
 <h4>Education</h4>
 <ul>
-   <li>* 2025.09 ~ ing    Korea National Open University (KNOU) Computer Sience</li>
-   <li>* 2026.05 ~ 2026.10    Sist Academy java</li>
+   <li>2025.09 ~ ing    Korea National Open University (KNOU) Computer Sience</li>
+   <li>2026.05 ~ 2026.10    Sist Academy java</li>
 </ul>
 
 <h4>Career</h4>
 <ul>
-   <li>* 2022.03 ~ 2026.02 - Web planet / Web Publisher, Design</li>
+   <li>2022.03 ~ 2026.02 - Web planet / Web Publisher, Design</li>
 </ul>
  
    
