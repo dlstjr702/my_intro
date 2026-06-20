@@ -1,4 +1,5 @@
-<h4>🐱 INTRODUCE</h4>
+<h3>🐱 About Me</h3>
+
 <INTRODUCE - KOR><br>
 안녕하세요 !! 웹디자인/퍼블로 시작하여 개발자영역으로 확장중인 양인석이라고합니다!
 디자인부터 프론트개발부터 백엔드 공부를 하며 풀스텍 개발자로 확장중이며 4년 퍼블리셔로 실무에서 다양한 경험을 쌓고
@@ -14,6 +15,7 @@ I'm expanding my influence as a developer!<br>
 デザイン、フロント開発、バックエンドを学ぶことで、彼はフルスタック開発者として成長しており、4年間出版社として実務で様々な経験を積んでいます
 私は開発者として自分の影響力を拡大しています！<br>
 <br>
+
 <h3>🛠️Edu &Career</h3>
 
 <h4>Education</h4>
@@ -32,8 +34,6 @@ I'm expanding my influence as a developer!<br>
 <h3>💪🏼 Tools</h3>
 
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-
-<h3>🐱 About Me</h3>
 
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
